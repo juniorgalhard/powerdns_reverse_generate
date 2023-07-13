@@ -2,8 +2,9 @@
  PowerDNS Admin Gernerate Reverse Zone
 
 pythom -m venv venv
- .\venv\Scripts\Activate.ps1 #windows power shell
- .\venv\Scripts\Activate.bat #windows cmd shell
+
+#windows power shell<br> .\venv\Scripts\Activate.ps1 <br><br>
+#windows cmd shell<br> .\venv\Scripts\Activate.bat <br><br>
  
 pip install -r requirements.txt
 
